@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Faruq-Shobola/Node-js-Writing-to-file#readme",
   "dependencies": {
     "loadash": "^1.0.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.7",
     "uuid": "^8.3.2"
   }
